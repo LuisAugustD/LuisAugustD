@@ -1,6 +1,6 @@
 ### Oioioi! Eu sou Luis August
 
-- 🌱 Estudando HTML
+- 📚 Estudando HTML
 
 <div>
   <a href="https://github.com/LuisAugustD">
